@@ -14,7 +14,7 @@
 
 ## 更新日志
 
-[点此查看]()
+[点此查看](https://github.com/MyWifeAsuna/TS3Audiobot-playlist/blob/main/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97.md)
 
 ## 开坑
 
