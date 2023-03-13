@@ -12,7 +12,25 @@
 
 生成好的文件存放在`data`目录下  
 
-[下载地址](https://github.com/MyWifeAsuna/TS3Audiobot-playlist/releases)
+## 使用方法
+
+1. 下载本软件
+
+   ​	[下载地址](https://github.com/MyWifeAsuna/TS3Audiobot-playlist/releases)
+
+   可以选择多文件版和单文件版。自动在**程序所在目录**生成文件夹
+
+2. 寻找你想听的歌单，可以多选几个，记下他们的歌单ID
+
+3. 打开软件输入歌单ID，自动生成歌单文件存放在`data`目录下  
+
+4. 打开你的TS3Audiobot后台，**关闭TS3Audiobot程序**
+
+5. 打开TS3Audiobot目录文件，找到你想存放歌单的位置
+
+   一般为`./bot/botname/playlists` 。其中`botname`为你机器人的名字
+
+6. 将第三步获取到的歌单文件放入其中，开启TS3Audiobot程序即可
 
 ## 更新日志
 
