@@ -8,9 +8,10 @@
 
 - 目前只支持网易云，且不支持vip
 - 输入歌单ID自动爬取，不支持私人歌单
-- 硬爬歌单转换成`.ts3ablist`格式，存放在 `./bot/default/playlists` 目录下，也可以放在自己指定的位置
+- 硬爬歌单转换成TS3Audiobot所使用的格式，存放在 `./bot/botname/playlists` 目录下，也可以放在自己指定的位置
 
-生成好的`.ts3ablist`文件存放在`data`目录下
+生成好的文件存放在`data`目录下
+[下载地址](https://github.com/MyWifeAsuna/TS3Audiobot-playlist/releases)
 
 ## 更新日志
 
