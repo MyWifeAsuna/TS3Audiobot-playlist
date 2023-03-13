@@ -4,7 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56796591-62ec-4192-8054-c8ca18dbdb95" name="变更" comment="" />
+    <list default="true" id="56796591-62ec-4192-8054-c8ca18dbdb95" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/selenium/webdriver/common/devtools/v109/py.typed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/selenium/webdriver/common/devtools/v110/py.typed" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/网易云歌单转换TS3歌单/Analysis-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/网易云歌单转换TS3歌单/Analysis-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/网易云歌单转换TS3歌单/COLLECT-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/网易云歌单转换TS3歌单/COLLECT-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/网易云歌单转换TS3歌单/EXE-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/网易云歌单转换TS3歌单/EXE-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/网易云歌单转换TS3歌单/PKG-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/网易云歌单转换TS3歌单/PKG-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/网易云歌单转换TS3歌单/PYZ-00.pyz" beforeDir="false" afterPath="$PROJECT_DIR$/build/网易云歌单转换TS3歌单/PYZ-00.pyz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/网易云歌单转换TS3歌单/PYZ-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/网易云歌单转换TS3歌单/PYZ-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/网易云歌单转换TS3歌单/base_library.zip" beforeDir="false" afterPath="$PROJECT_DIR$/build/网易云歌单转换TS3歌单/base_library.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/网易云歌单转换TS3歌单/xref-网易云歌单转换TS3歌单.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/网易云歌单转换TS3歌单/xref-网易云歌单转换TS3歌单.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/网易云歌单转换TS3歌单/网易云歌单转换TS3歌单.exe" beforeDir="false" afterPath="$PROJECT_DIR$/build/网易云歌单转换TS3歌单/网易云歌单转换TS3歌单.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/网易云歌单转换TS3歌单/网易云歌单转换TS3歌单.pkg" beforeDir="false" afterPath="$PROJECT_DIR$/build/网易云歌单转换TS3歌单/网易云歌单转换TS3歌单.pkg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/base_library.zip" beforeDir="false" afterPath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/base_library.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/selenium/webdriver/common/devtools/v106/py.typed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/selenium/webdriver/common/devtools/v107/py.typed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/selenium/webdriver/common/linux/selenium-manager" beforeDir="false" afterPath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/selenium/webdriver/common/linux/selenium-manager" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/selenium/webdriver/common/macos/selenium-manager" beforeDir="false" afterPath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/selenium/webdriver/common/macos/selenium-manager" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/selenium/webdriver/common/windows/selenium-manager.exe" beforeDir="false" afterPath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/selenium/webdriver/common/windows/selenium-manager.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/网易云歌单转换TS3歌单.exe" beforeDir="false" afterPath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/网易云歌单转换TS3歌单.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/网易云歌单转换TS3歌单.py" beforeDir="false" afterPath="$PROJECT_DIR$/网易云歌单转换TS3歌单.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/网易云歌单转换TS3歌单.spec" beforeDir="false" afterPath="$PROJECT_DIR$/网易云歌单转换TS3歌单.spec" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,15 +47,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "E:/Github clone/TS3Audiobot-playlist",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Github clone/TS3Audiobot-playlist&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="网易云歌单转换TS3歌单" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="网易云歌单转换TS3歌单" />

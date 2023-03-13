@@ -162,12 +162,12 @@ def get_ts3ablist(play_list_id):
     music_num = web.find_element(By.XPATH, '//*[@id="playlist-track-count"]').text
     music_url_list = web.find_elements(By.XPATH, '//td[2]/div/div/div/span/a')
     music_name_list = web.find_elements(By.XPATH, '//td[2]/div/div/div/span/a/b')
-    with open(f'data/{play_list_id}.ts3ablist', mode='w', encoding="utf8", newline='') as file:
+    with open(f'data/{play_list_id}', mode='w', encoding="utf8", newline='') as file:
         file.close()
     print('正在疯狂爬取，请稍等...')
-    f = open(f"data/{play_list_id}.ts3ablist", mode="w", encoding="utf8", newline="")
+    f = open(f"data/{play_list_id}", mode="w", encoding="utf8", newline="")
     print("version:3", file=f)
-    print('meat:{"count":' + music_num + f',"title":"{play_list_id}''"}'"\n", file=f)
+    print('meta:{"count":' + music_num + f',"title":"{play_list_id}''"}'"\n", file=f)
     for music_url in music_url_list:
         print("rsj:{\"type\":\"media\",\"resid\":\"http://music.163.com/song/media/outer/url?id="
               + music_url.get_attribute('href')[30:]
