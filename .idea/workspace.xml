@@ -4,38 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56796591-62ec-4192-8054-c8ca18dbdb95" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/data/6584646" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/8059050098" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/data/8059050098" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/logs/log-20230318-011600.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/log-20230318-005104.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/log-20230318-005143.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/log-20230318-010346.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/log-20230318-010639.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/log-20230318-010812.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/log-20230318-010922.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/log-20230318-011044.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/log-20230318-011153.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/log-20230318-011338.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/log-20230318-011818.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/log-20230318-011921.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/log-20230318-011957.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/网易云歌单转换TS3歌单/Analysis-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/网易云歌单转换TS3歌单/Analysis-00.toc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/网易云歌单转换TS3歌单/COLLECT-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/网易云歌单转换TS3歌单/COLLECT-00.toc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/网易云歌单转换TS3歌单/EXE-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/网易云歌单转换TS3歌单/EXE-00.toc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/网易云歌单转换TS3歌单/PKG-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/网易云歌单转换TS3歌单/PKG-00.toc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/网易云歌单转换TS3歌单/base_library.zip" beforeDir="false" afterPath="$PROJECT_DIR$/build/网易云歌单转换TS3歌单/base_library.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/网易云歌单转换TS3歌单/warn-网易云歌单转换TS3歌单.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/网易云歌单转换TS3歌单/warn-网易云歌单转换TS3歌单.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/网易云歌单转换TS3歌单/网易云歌单转换TS3歌单.exe" beforeDir="false" afterPath="$PROJECT_DIR$/build/网易云歌单转换TS3歌单/网易云歌单转换TS3歌单.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/网易云歌单转换TS3歌单/网易云歌单转换TS3歌单.pkg" beforeDir="false" afterPath="$PROJECT_DIR$/build/网易云歌单转换TS3歌单/网易云歌单转换TS3歌单.pkg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单.exe" beforeDir="false" afterPath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/base_library.zip" beforeDir="false" afterPath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/base_library.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/网易云歌单转换TS3歌单.exe" beforeDir="false" afterPath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/网易云歌单转换TS3歌单.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/网易云歌单转换TS3歌单.py" beforeDir="false" afterPath="$PROJECT_DIR$/网易云歌单转换TS3歌单.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/网易云歌单转换TS3歌单.spec" beforeDir="false" afterPath="$PROJECT_DIR$/网易云歌单转换TS3歌单.spec" afterDir="false" />
-    </list>
+    <list default="true" id="56796591-62ec-4192-8054-c8ca18dbdb95" name="变更" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
