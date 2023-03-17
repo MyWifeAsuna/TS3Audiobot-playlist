@@ -20,6 +20,7 @@ import wmi
 
 from selenium import webdriver
 from selenium.webdriver.common.by import By
+from threading import Thread
 
 
 def info():
@@ -60,8 +61,8 @@ def log():
     if not os.path.exists(log_path):
         os.mkdir(log_path)
     # 使用Logger类 经典做法可直接copy 注意编码问题
-    # sys.stdout = Logger(f'{log_file_name}', sys.stdout)
-    sys.stderr = Logger(f'{log_file_name}', sys.stderr)
+    sys.__stdout__ = Logger(f'{log_file_name}', sys.__stdout__)
+    sys.__stderr__ = Logger(f'{log_file_name}', sys.__stderr__)
     # 获取电脑信息写入 log
     with open(f'{log_file_name}', 'a', encoding="utf8") as f:
         # System
@@ -177,7 +178,7 @@ def get_ts3ablist(play_list_id):
             del music_name_list[0]
             break
     f.close()
-    return web
+    web.close()
 
 
 def del_log(path):
@@ -200,14 +201,13 @@ if __name__ == '__main__':
         while True:
             try:
                 list_id = get_list_id()
-                get_web = get_ts3ablist(list_id)
+                get_ts3ablist(list_id)
             except Exception:
                 print("此歌单不存在或为私人歌单，需要登陆才可查看。稍等1秒请重新输入一个公共歌单ID\n")
             else:
                 break
         time.sleep(1)
         print("\n任务完成！文件输出在data目录下 请手动关闭程序。")
-        get_web.close()
         sys.exit(0)
     except KeyboardInterrupt:
         del_log('./logs')

@@ -4,7 +4,106 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56796591-62ec-4192-8054-c8ca18dbdb95" name="变更" comment="" />
+    <list default="true" id="56796591-62ec-4192-8054-c8ca18dbdb95" name="变更" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/网易云歌单转换TS3歌单/Analysis-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/网易云歌单转换TS3歌单/Analysis-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/网易云歌单转换TS3歌单/COLLECT-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/网易云歌单转换TS3歌单/COLLECT-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/网易云歌单转换TS3歌单/EXE-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/网易云歌单转换TS3歌单/EXE-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/网易云歌单转换TS3歌单/PKG-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/网易云歌单转换TS3歌单/PKG-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/网易云歌单转换TS3歌单/base_library.zip" beforeDir="false" afterPath="$PROJECT_DIR$/build/网易云歌单转换TS3歌单/base_library.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/网易云歌单转换TS3歌单/warn-网易云歌单转换TS3歌单.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/网易云歌单转换TS3歌单/warn-网易云歌单转换TS3歌单.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/网易云歌单转换TS3歌单/xref-网易云歌单转换TS3歌单.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/网易云歌单转换TS3歌单/xref-网易云歌单转换TS3歌单.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/网易云歌单转换TS3歌单/网易云歌单转换TS3歌单.exe" beforeDir="false" afterPath="$PROJECT_DIR$/build/网易云歌单转换TS3歌单/网易云歌单转换TS3歌单.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/网易云歌单转换TS3歌单/网易云歌单转换TS3歌单.pkg" beforeDir="false" afterPath="$PROJECT_DIR$/build/网易云歌单转换TS3歌单/网易云歌单转换TS3歌单.pkg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/VCRUNTIME140.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/_bz2.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/_ctypes.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/_decimal.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/_elementtree.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/_hashlib.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/_lzma.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/_queue.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/_socket.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/_ssl.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/_uuid.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/_win32sysloader.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/api-ms-win-core-com-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/api-ms-win-core-console-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/api-ms-win-core-datetime-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/api-ms-win-core-debug-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/api-ms-win-core-errorhandling-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/api-ms-win-core-file-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/api-ms-win-core-file-l1-2-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/api-ms-win-core-file-l2-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/api-ms-win-core-handle-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/api-ms-win-core-heap-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/api-ms-win-core-interlocked-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/api-ms-win-core-libraryloader-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/api-ms-win-core-localization-l1-2-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/api-ms-win-core-memory-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/api-ms-win-core-namedpipe-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/api-ms-win-core-processenvironment-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/api-ms-win-core-processthreads-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/api-ms-win-core-processthreads-l1-1-1.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/api-ms-win-core-profile-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/api-ms-win-core-rtlsupport-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/api-ms-win-core-string-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/api-ms-win-core-synch-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/api-ms-win-core-synch-l1-2-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/api-ms-win-core-sysinfo-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/api-ms-win-core-timezone-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/api-ms-win-core-util-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/api-ms-win-crt-conio-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/api-ms-win-crt-convert-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/api-ms-win-crt-environment-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/api-ms-win-crt-filesystem-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/api-ms-win-crt-heap-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/api-ms-win-crt-locale-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/api-ms-win-crt-math-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/api-ms-win-crt-multibyte-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/api-ms-win-crt-process-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/api-ms-win-crt-runtime-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/api-ms-win-crt-stdio-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/api-ms-win-crt-string-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/api-ms-win-crt-time-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/api-ms-win-crt-utility-l1-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/base_library.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/certifi/cacert.pem" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/certifi/py.typed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/libcrypto-1_1.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/libffi-7.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/libssl-1_1.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/mfc140u.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/psutil/_psutil_windows.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/pyexpat.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/python3.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/python310.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/pywin32_system32/pythoncom310.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/pywin32_system32/pywintypes310.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/select.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/selenium/py.typed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/selenium/webdriver/common/devtools/v108/py.typed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/selenium/webdriver/common/devtools/v109/py.typed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/selenium/webdriver/common/devtools/v110/py.typed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/selenium/webdriver/common/devtools/v85/py.typed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/selenium/webdriver/common/linux/selenium-manager" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/selenium/webdriver/common/macos/selenium-manager" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/selenium/webdriver/common/mutation-listener.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/selenium/webdriver/common/windows/selenium-manager.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/selenium/webdriver/firefox/webdriver_prefs.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/selenium/webdriver/remote/findElements.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/selenium/webdriver/remote/getAttribute.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/selenium/webdriver/remote/isDisplayed.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/ucrtbase.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/unicodedata.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/win32api.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/win32trace.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/win32ui.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/网易云歌单转换TS3歌单/网易云歌单转换TS3歌单.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/网易云歌单转换TS3歌单.py" beforeDir="false" afterPath="$PROJECT_DIR$/网易云歌单转换TS3歌单.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/网易云歌单转换TS3歌单.spec" beforeDir="false" afterPath="$PROJECT_DIR$/网易云歌单转换TS3歌单.spec" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
