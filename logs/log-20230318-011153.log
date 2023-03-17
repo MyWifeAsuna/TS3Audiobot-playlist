@@ -1,0 +1,17 @@
+2023-03-18 01:11:53 | uname_result(system='Windows', node='DESKTOP-N96CLC3', release='10', version='10.0.19042', machine='AMD64')
+2023-03-18 01:11:53 | platform: Windows-10-10.0.19042-SP0
+2023-03-18 01:11:53 | version: 10.0.19042
+2023-03-18 01:11:53 | architecture: ('64bit', 'WindowsPE')
+2023-03-18 01:11:53 | machine: AMD64
+2023-03-18 01:11:53 | node: DESKTOP-N96CLC3
+2023-03-18 01:11:53 | processor: AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD
+2023-03-18 01:11:53 | macaddr: 2c:f0:5d:96:8e:73
+2023-03-18 01:11:53 | python_version: 3.10.4
+==================================================
+2023-03-18 01:11:54 | CPU_NAME: AMD Ryzen 9 5900X 12-Core Processor            
+2023-03-18 01:11:54 | CPU_LoadPercentage: 4%
+2023-03-18 01:11:54 | CPU_NumberOfCores: 12
+2023-03-18 01:11:54 | Memory_Free: 15.03GB
+2023-03-18 01:11:54 | Memory_Total: 31.92GB
+2023-03-18 01:11:54 | Memory_Use_Percent: 52.9 %
+

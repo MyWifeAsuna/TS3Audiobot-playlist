@@ -148,7 +148,7 @@ def get_list_id():
     return play_list_id
 
 
-def get_ts3ablist(play_list_id):
+def get_music163_ts3ablist(play_list_id):
     option = webdriver.ChromeOptions()
     option.add_experimental_option('detach', True)
     option.add_experimental_option("excludeSwitches", ['enable-automation', 'enable-logging'])
@@ -177,6 +177,7 @@ def get_ts3ablist(play_list_id):
             print(music_name.get_attribute('title') + "\"}", file=f)
             del music_name_list[0]
             break
+    print('\n任务完成！文件输出在data目录下')
     f.close()
     web.close()
 
@@ -192,24 +193,61 @@ def del_log(path):
                 os.remove(path + "/" + file)
 
 
+def choose_music_platform():
+    while True:
+        try:
+            input_num = input('请选择音乐平台：1.网易云音乐 2.QQ音乐\n')
+            return int(input_num)
+        except Exception:
+            print('输入错误！请重新输入！\n')
+
+
+def main():
+    yes = 'y'
+    no = 'n'
+    while True:
+        while True:
+            choose_num = choose_music_platform()
+            if choose_num == music163:
+                while True:
+                    try:
+                        list_id = get_list_id()
+                        get_music163_ts3ablist(list_id)
+                    except Exception:
+                        print("此歌单不存在或为私人歌单，需要登陆才可查看。稍等1秒请重新输入一个公共歌单ID\n")
+                    else:
+                        break
+                break
+            elif choose_num == qq_music:
+                print('太懒了还没写！\n')
+            else:
+                print('输入错误，请重新输入！\n')
+        time.sleep(1)
+        while True:
+            continue_input = input('\n是否还要继续输入新的歌单？[Y/N]：')
+            if continue_input.lower() == yes:
+                break
+            elif continue_input.lower() == no:
+                return
+            else:
+                print('输入错误！请重新输入！\n')
+
+
 if __name__ == '__main__':
+    music163 = 1
+    qq_music = 2
     try:
         info()
         default_path = os.getcwd()
         log()
         get_path = files()
-        while True:
-            try:
-                list_id = get_list_id()
-                get_ts3ablist(list_id)
-            except Exception:
-                print("此歌单不存在或为私人歌单，需要登陆才可查看。稍等1秒请重新输入一个公共歌单ID\n")
-            else:
-                break
-        time.sleep(1)
-        print("\n任务完成！文件输出在data目录下 请手动关闭程序。")
+        main()
+        print("\n等待程序自动关闭 或者请手动关闭程序。")
+        del_log('./logs')
+        time.sleep(2)
         sys.exit(0)
     except KeyboardInterrupt:
         del_log('./logs')
         print("\n手动关闭程序，正常退出！")
+        time.sleep(1)
         sys.exit(0)
